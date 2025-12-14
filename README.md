@@ -11,8 +11,7 @@ It allows users to browse food items, add them to a cart, manage quantities, and
 - Browse food by categories (Pizza, Burger, Sandwich)  
 - Add to cart with quantity control  
 - Persistent cart using LocalStorage  
-- Checkout with bill preview  
-- Download bill as TXT or PDF (print format)  
+- Checkout with bill preview    
 - Contact form with message storage  
 - Smooth cart modal experience  
 
@@ -56,6 +55,5 @@ GitHub: https://github.com/Om-panda
 📌 Future Enhancements
 
 Backend integration
-Online payment gateway
 User authentication
 Admin dashboard
